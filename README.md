@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hi, I'm Nivin Sithija
+   . Hi, I'm Nivin Sithija .
 </h1>
 <img align="right" src="https://raw.githubusercontent.com/Nivin-Sithija/Nivin-Sithija/master/assets/coding.gif" width="340"/>
 
@@ -14,23 +14,14 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/keras/keras.png"></code>
-
-### Skills 
-- **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch, Transformers
-- **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Git, Docker, AWS
-
 
 ### Connect with Me
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivin-sithija-seneviratne/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sithijaseneviratne@gmail.com) 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivin-Sithija&layout=compact&theme=github_dark&card_width=400">
 
 ###  Fun Fact
 *"I measure productivity in cups of coffee, not lines of code."* 
